@@ -1,0 +1,31 @@
+Transaction_ID,Customer_Type,Items
+T1001,Student,Mechanical Keyboard;Wireless Mouse;Mousepad XL
+T1002,Professional,Laptop Stand;USB-C Hub;HDMI Cable
+T1003,Gamer,Mechanical Keyboard;Gaming Mouse;Headset;Mousepad XL
+T1004,Student,USB-C Hub;External SSD;HDMI Cable
+T1005,Professional,Laptop Stand;Wireless Mouse;USB-C Hub;Webcam 1080p
+T1006,Gamer,Mechanical Keyboard;Gaming Mouse;Desk Lamp
+T1007,Student,Mechanical Keyboard;Mousepad XL
+T1008,Professional,Laptop Stand;USB-C Hub;HDMI Cable;External SSD
+T1009,Gamer,Mechanical Keyboard;Gaming Mouse;Mousepad XL;Headset
+T1010,Student,Wireless Mouse;Mousepad XL;Desk Lamp
+T1011,Professional,Laptop Stand;Webcam 1080p;USB-C Hub
+T1012,Student,Mechanical Keyboard;Wireless Mouse;USB-C Hub
+T1013,Gamer,Mechanical Keyboard;Gaming Mouse;Headset
+T1014,Professional,Laptop Stand;USB-C Hub;HDMI Cable;Wireless Mouse
+T1015,Student,Wireless Mouse;Mousepad XL
+T1016,Professional,External SSD;USB-C Hub;HDMI Cable
+T1017,Gamer,Mechanical Keyboard;Gaming Mouse;Mousepad XL
+T1018,Student,Laptop Stand;Wireless Mouse;Mousepad XL
+T1019,Professional,Webcam 1080p;Headset;USB-C Hub
+T1020,Gamer,Mechanical Keyboard;Headset;Gaming Mouse;Mousepad XL
+T1021,Student,Mechanical Keyboard;Wireless Mouse;Mousepad XL;Desk Lamp
+T1022,Professional,Laptop Stand;USB-C Hub;HDMI Cable;Webcam 1080p
+T1023,Student,Wireless Mouse;Desk Lamp;USB-C Hub
+T1024,Gamer,Gaming Mouse;Headset;Mechanical Keyboard
+T1025,Professional,Laptop Stand;Wireless Mouse;HDMI Cable
+T1026,Student,External SSD;USB-C Hub;Laptop Stand
+T1027,Gamer,Mechanical Keyboard;Gaming Mouse;Mousepad XL;Desk Lamp
+T1028,Professional,Laptop Stand;USB-C Hub;Webcam 1080p;HDMI Cable
+T1029,Student,Mechanical Keyboard;Mousepad XL;Wireless Mouse
+T1030,Professional,USB-C Hub;HDMI Cable;External SSD;Webcam 1080p
